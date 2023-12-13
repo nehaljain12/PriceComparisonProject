@@ -1,4 +1,4 @@
-# Simplifying the Electronic Item's Price Comparison
+# Simplifying the Comparison for Electronic Item's Price 
 
 Welcome to E-Shop Compare, a handy price comparison tool for electronic items! This GitHub repository houses a Python project that utilizes web scraping techniques (specifically, BeautifulSoup's bs4 library) to gather product information from three popular online platforms: Flipkart, Amazon, and Vijasales.
 
